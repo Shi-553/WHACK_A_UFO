@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/Puddle/Debug
+/Puddle/Release
+/.vs/Puddle
+/Release
+/Debug
